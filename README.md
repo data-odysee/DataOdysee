@@ -25,9 +25,6 @@ Data Odysee es una página educativa con recursos y tutoriales pensada para ayud
 
 ```
 DataOdysee/
-├── admin/
-│   ├── config.yml
-│   └── index.html
 ├── content/
 │   ├── analisis/
 │   ├── curso-bigdata/
